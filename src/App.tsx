@@ -1,9 +1,9 @@
-import {CTA} from "./components/CTA";
-import {StatisticsCard} from "./components/Card";
-import {Footer} from "./components/Footer";
-import {FormSection} from "./components/Form";
-import {Hero} from "./components/Hero";
-import {Navbar} from "./components/Navbar";
+import {CTA} from "../CTA";
+import {StatisticsCard} from "../Card";
+import {Footer} from "../Footer";
+import {FormSection} from "../Form";
+import {Hero} from "../Hero";
+import {Navbar} from "../Navbar";
 import {Toaster} from "solid-toast";
 
 function App() {
